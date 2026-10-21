@@ -1,7 +1,7 @@
 {
-  "name": "Cuadrilla Segura · Fibra al poste",
+  "name": "Cuadrilla Segura",
   "short_name": "Cuadrilla Segura",
-  "description": "Simulador 3D de seguridad para cuadrillas de tendido aéreo de fibra óptica (GS-101 y Manual MNO-DS-GE-001).",
+  "description": "Simulador 3D de seguridad laboral para cuadrillas del ICE: SST, fibra óptica y seguridad vial (GS-101, Manual MNO-DS-GE-001 y Seguridad Vial 2026).",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
